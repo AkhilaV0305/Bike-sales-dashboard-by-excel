@@ -66,9 +66,3 @@ The dataset includes customer-level information such as:
 
 ---
 
-## 📸 Dashboard Preview
-(Add dashboard screenshot here)
-
----
-
-## 📂 Project Structure
